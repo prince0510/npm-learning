@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "05_npm-node-package-manager",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prince",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
+}
